@@ -1,6 +1,7 @@
 <nav
     class="navbar navbar-expand-sm navbar-light bg-light"
 >
+    <a href="a propos.html"></a>
     <div class="container">
         <a class="navbar-brand" href="#">Groupe6</a>
         <button
