@@ -37,9 +37,10 @@
 <body>
     <nav>
         <ul>
-            <li><a href="#apropos">À propos</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="index.php">Acceuil</a></li>
+            <li><a href="apropos.php">À propos</a></li>
+            
+            <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
     <section id="apropos">
