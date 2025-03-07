@@ -23,9 +23,7 @@
                         <span class="visually-hidden">(current)</span></a
                     >
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="indexx.php">Meteo</a>
-                </li>
+            
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact</a>
                 </li>
